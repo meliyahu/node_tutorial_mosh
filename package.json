@@ -1,0 +1,11 @@
+{
+  "name": "node_tutorial_mosh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/meliyahu/node_tutorial_mosh.git",
+  "author": "Mosheh EliYahu <mosheh.eliyahu@adelaide.edu.au>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
